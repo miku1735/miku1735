@@ -1,13 +1,13 @@
 #  Hi, I’m Mayank verma 👋
   
+<img align="right" alt="GIF" src="https://github.com/miku1735/miku1735/blob/main/code.gif?raw=true" width="390" height="250" />
+
+
 <a href="https://www.linkedin.com/in/mayank-verma1735">
   <img align="left" alt="Mayank Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=miku1735&label=PROFILE+VIEWS)
-
-
-<img align="right" alt="GIF" src="https://github.com/miku1735/miku1735/blob/main/code.gif?raw=true" width="390" height="250" />
 
 - 🏢 I am currently working at : [IBM](https://github.com/ibm); 
 - 💬 Ask me about anything, I am happy to help;
