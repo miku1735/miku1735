@@ -1,6 +1,6 @@
 #  Hi, I’m Mayank verma 👋
   
-<img align="right" alt="GIF" src="https://github.com/miku1735/miku1735/blob/main/code.gif?raw=true" width="390" height="250" />
+<img align="right" alt="GIF" src="https://github.com/miku1735/miku1735/blob/main/code.gif?raw=true" width="450" height="320" />
 
 
 <a href="https://www.linkedin.com/in/mayank-verma1735">
@@ -8,6 +8,7 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=miku1735&label=PROFILE+VIEWS)
+________________
 
 - 🏢 I am currently working at : [IBM](https://github.com/ibm); 
 - 💬 Ask me about anything, I am happy to help;
@@ -15,6 +16,7 @@
 - 🌱  I’m currently learning Go; <a href="https://golang.org/doc/">
                                     <img src="https://github.com/miku1735/miku1735/blob/main/go.svg" align="center" width="35" height="35" alt="Golang" />
                                   </a>
+________________________
 
 **Languages and Tools:**  
 
@@ -30,10 +32,11 @@
 
 
 
-
-[![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=miku1735&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+_______________
+[![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=miku1735&show_icons=true&theme=monokai&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)-----------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miku1735&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+________________
 ```javascript
 const Mayank = {
     pronouns: "He" | "Him",
