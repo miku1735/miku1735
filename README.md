@@ -33,7 +33,7 @@ ________________________
 
 
 _______________
-[![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=miku1735&show_icons=true&theme=monokai&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)-----------------------------------
+[![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=miku1735&show_icons=true&theme=monokai&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)--------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miku1735&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ________________
