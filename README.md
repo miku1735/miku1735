@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=miku1735&label=PROFILE+VIEWS)
 ________________
 
-- 🏢 I am currently working at : [IBM](https://github.com/ibm); 
+- 🏢 I am currently working at : [ServiceNow](https://www.servicenow.com) / [Ex-IBM](https://www.ibm.com/in-en); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Mayank Verma](https://www.linkedin.com/in/mayank-verma1735);
 - 🌱  I’m currently learning Go; <a href="https://golang.org/doc/">
@@ -58,8 +58,8 @@ const Mayank = {
         },
         devOps: ["IBM Cloud", "Docker🐳", "Kubernetes"],
     },
-    architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
+    architecture: ["Single page applications"],
+    currentFocus: "Comptetive Programming using JAVA",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
